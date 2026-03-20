@@ -199,10 +199,6 @@ snort-ids-ips-lab
 │   ├── 10-snort-ips-mode.png
 │   ├── 11-snort-rule-edit.png
 │   ├── 12-snort-rule-validation.png
-│   ├── 13-snort-real-time-alerts.png
-│   ├── 14-snort-alert-log-monitoring.png
-│   ├── 15-snort-traffic-detection.png
-│   └── 16-snort-packet-logger-mode.png
 
 ---
 
